@@ -1,4 +1,4 @@
-# Python## <h1>👋🏼 Olá! Eu sou <a href="https://www.linkedin.com/in/durval-cavalcante"><i>Durval Cavalcante</i></a></h1>
+<h1>👋🏼 Olá! Eu sou <a href="https://www.linkedin.com/in/durval-cavalcante"><i>Durval Cavalcante</i></a></h1>
 🌱 Desenvolvedor Front-End Jr<br>
 📚 Repositório de Python<br>
 <br /><br />
@@ -22,7 +22,7 @@
   <code><img align="center" alt="Dur-BootStrap" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" /></code>
   <code><img align="center" alt="Dur-Python" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /></code>
   
-  <a href="https://gifs.alphacoders.com/gifs/view/15791"><img align="right" height="150" style="border-radius:100px" src="https://giffiles.alphacoders.com/157/15791.gif"></a> 
+  
 
 </div>
   
@@ -32,5 +32,6 @@
     <a href="mailto:durvalcavalcante00@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/durval.cavalcante" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
        <a href="https://www.linkedin.com/in/durval-cavalcante"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://gifs.alphacoders.com/gifs/view/15791"><img align="right" height="150" style="border-radius:100px" src="https://giffiles.alphacoders.com/157/15791.gif"></a> 
     
   </div>
