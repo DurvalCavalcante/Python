@@ -4,7 +4,7 @@ Fatiamento ded strings
  Olá mundo
 -987654321
 Fatiamento [i:f:p] [::] i-(início) f-(fim) p-(passo) - de quantos caracteres ele vai pular. 
-Obs.: a função len retorna a qauntidade de caracteres da strings
+Obs.: a função len retorna a quantidade de caracteres da strings
 """
 
 variavel = 'Olá mundo'
